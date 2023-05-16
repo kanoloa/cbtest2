@@ -7,4 +7,4 @@ for (let i = 0; i < max; i++) {
   factor = factor * factor;
 }
 
-# end of code
+# end of code, by kanoloa.
