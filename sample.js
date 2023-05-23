@@ -1,4 +1,5 @@
 # modify by kanoloa, 23 May 2023
+# do not use this script in production code.
 
 let cb = 2210;
 
