@@ -2,7 +2,7 @@
 # do not use this script in production code.
 
 let cb = 2210;
-let factor = 2.12;
+let factor = 2.13;
 
 for (let i = 0; i < cb; i++) {
   logger.debug("counter = " + i + ", powered = " + (i * factor));
