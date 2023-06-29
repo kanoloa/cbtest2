@@ -1,7 +1,7 @@
 # modify by kanoloa, 23 May 2023
 # do not use this script in production code.
 # addtional lise.
-# more comment on this.
+# more comment
 
 let cb = 2210;
 let factor = 2.13;
