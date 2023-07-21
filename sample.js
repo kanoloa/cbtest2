@@ -2,6 +2,7 @@
 # do not use this script in production code.
 # addtional lise.
 # more comment
+# 今日は暑いですね。
 
 let cb = 2210;
 let factor = 2.13;
