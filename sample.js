@@ -3,7 +3,7 @@
 # addtional lise.
 
 let cb = 2212;
-let factor = 2.15;
+let factor = 2.14;
 let version = "22.10 sp3";
 
 for (let i = 0; i < cb; i++) {
