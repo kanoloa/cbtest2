@@ -4,7 +4,7 @@
 
 let cb = 2212;
 let factor = 3.14;
-let version = "22.10 sp3";
+let version = "2.1.0.0";
 
 function sample() {
   for (let i = 0; i < cb; i++) {
