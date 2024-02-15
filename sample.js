@@ -4,7 +4,7 @@
 
 const cb = 2212;
 const factor = 3.1415623589;
-let version = "2.1.0.0";
+const version = "2.1.0.0";
 
 function sample() {
   for (let i = 0; i < cb; i++) {
